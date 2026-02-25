@@ -1,8 +1,16 @@
-### Hey 👋, I'm Mohamed Khaled.
 
 
-<br />
-<br />
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedkhaled.mohamedkhaled">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There+👋;I'm+Mohamed+Khaled;SOC+Analyst;Nice+to+meet+you&center=true&size=30">
+  </a>
+</h1>
+
+
+---
 
 - I am focused on building a strong foundation in **Security Operations Center (SOC)**.
 - Passionate about understanding real-world security incidents and defensive strategies.
@@ -38,8 +46,17 @@
   ---
   
 **Tools & Technologies**
-
+  
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
